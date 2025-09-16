@@ -1,9 +1,0 @@
-@font-face {
-    font-family: 'IvyOra Display';
-    src: local('IvyOra Display Medium'), local('IvyOra-Display-Medium'),
-        url('IvyOraDisplay-Medium.woff2') format('woff2'),
-        url('IvyOraDisplay-Medium.woff') format('woff'),
-        url('IvyOraDisplay-Medium.ttf') format('truetype');
-    font-weight: 500;
-    font-style: normal;
-  }
