@@ -1,6 +1,5 @@
 console.log("App file is Running");
 
-
 function addbtn(){
 const data = document.querySelector("input").value
 const shown_list = document.getElementById('todo_data_list');
